@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975986548321",
+    "firebase_url": "https://losaltoshacks-be269.firebaseio.com",
+    "project_id": "losaltoshacks-be269",
+    "storage_bucket": "losaltoshacks-be269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975986548321:android:3f21fc892672144b",
+        "android_client_info": {
+          "package_name": "com.example.anant.injdet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975986548321-c78gikn7a7ihtpht3cjcpvtn1m7gabvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqRR_hBhwdiab7JehQfoMCHjtvkmBYxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
